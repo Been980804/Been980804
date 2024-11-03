@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=1DC32D&multiline=true&repeat=false&width=435&lines=Hi;I'm+Been+:D)](https://git.io/typing-svg)
 ---
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ryuchaehyun)](https://www.linkedin.com/in/ryuchaehyun)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EB%B9%88-%EC%9D%B4-4a7106320/)](https://www.linkedin.com/in/%ED%98%84%EB%B9%88-%EC%9D%B4-4a7106320/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonbeen980804@gmail.com)](mailto:hyeonbeen980804@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hy25n_bin)](https://www.instagram.com/hy25n_bin)
 
