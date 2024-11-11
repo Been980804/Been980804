@@ -63,4 +63,8 @@ Thank you for visiting my GitHub!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=been980804)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=been980804)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![rankit-badge](https://badge.rankit.run/badge?name=Been980804)](https://www.rankit.run)
+
 
